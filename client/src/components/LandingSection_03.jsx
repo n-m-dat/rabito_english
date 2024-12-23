@@ -13,7 +13,7 @@ const LandingSection_03 = () => {
       {/*--------------------------------------------------------------------------------------------*/}
       <div
         className="
-      px-0  flex flex-col
+      px-0 flex flex-col
       lg:w-[412px] lg:py-[150px] lg:text-start lg:gap-4
       md:w-[720px] md:h-[192px] md:text-center md:gap-4
       sm:w-[353px] sm:h-[165px] sm:text-center sm:gap-2"
